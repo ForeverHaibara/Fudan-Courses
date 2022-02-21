@@ -10,3 +10,8 @@ Personal Notes for Courses in School of Data Science, Fudan University
 3. 算法与数据结构
 4. 概率论基础
 5. 计算机原理
+
+## 大二下
+6. 数据库及实现
+7. 最优化方法
+8. 统计学基础I：数理统计
