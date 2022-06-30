@@ -19,7 +19,8 @@ Personal Notes for Courses in School of Data Science, Fudan University
 ## 大三上
 9. 人工智能 DATA130008
 10. 统计（机器）学习概论 DATA130003
-11. 图像处理与数据可视化 DATA130012h
+11. 高级回归分析 DATA130004h
+12. 图像处理与数据可视化 DATA130012h
 
 ## 专项选修
 1. 数值算法与案例分析II DATA130010
