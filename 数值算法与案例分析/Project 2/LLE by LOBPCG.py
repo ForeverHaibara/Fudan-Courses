@@ -1,7 +1,6 @@
 '''
 Filename    : LLE by LOBPCG.py
 Description : implementation of locally linear embedding and LOBPCG
-Author      : Zehao Zhang
 Date        : 2022.1.16
 '''
 import numpy as np
